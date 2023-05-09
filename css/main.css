@@ -1,0 +1,24 @@
+.encabezado
+{
+    background-color:#283747;
+}
+.caption-center
+{
+top: 40%;
+}
+.oscurecer-imagen
+{
+filter:brightness(50%);
+}
+.playa
+{background-color: #283747;
+}
+.anotate
+{width: 70%;
+ display: flex;
+ position: relative;
+ left: 15%;
+ }
+.div-pie
+{ background-color: #1A5276;
+}
